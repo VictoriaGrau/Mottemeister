@@ -1,2 +1,0 @@
-# Mottemeister
-Mottemeister projekt
